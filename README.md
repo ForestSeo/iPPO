@@ -1,4 +1,4 @@
-<a><img src="https://raw.githubusercontent.com/ForestSeo/iPPO/f51581d95532bbaece66783f62967c775d9aed28/title.svg"/></a>
+<a><img src="https://raw.githubusercontent.com/ForestSeo/iPPO/c68a80f2c5822657309719171f7fd4aad0912139/title.svg"/></a>
 
 栄光祭で公開したゲーム
 
