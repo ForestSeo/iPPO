@@ -1,4 +1,4 @@
-<h1 style="color: blue; ">iPPO</h1>
+<a><img src="https://raw.githubusercontent.com/ForestSeo/iPPO/1ccb6ca4f0be3dae2296d1987361cb6aaba416cd/title.svg"/></a>
 栄光祭で公開したゲーム
 
 ## REQUIRES
