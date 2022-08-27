@@ -1,4 +1,4 @@
-# iPPO
+<h1 style="color: blue; ">iPPO</h1>
 栄光祭で公開したゲーム
 
 ## REQUIRES
